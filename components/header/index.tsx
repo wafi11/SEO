@@ -1,6 +1,5 @@
 "use client";
 import Headerdata from "@/datas/data.json";
-import Image from "next/image";
 import Link from "next/link";
 import React, { FC, useCallback, useEffect, useState } from "react";
 

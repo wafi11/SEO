@@ -1,8 +1,5 @@
-import { NextSeo } from "next-seo";
-import Image from "next/image";
-import SEO from "../next-seo-config"
-import { ObjectId } from "bson";
 
+import React from "react";
 
 export default function Home() {
   return (
@@ -27,6 +24,4 @@ export default function Home() {
   );
 }
 
-export const isValidObjectId = (id: string): boolean => {
-  return ObjectId.isValid(id) && new ObjectId(id).toHexString() === id;
-};
+
