@@ -15,6 +15,9 @@ export const metadata: Metadata = {
     icon: "/vercel.svg"
   },
   keywords: ["macan tutul", "macan", "harimau", "harimau sumatra", "macan sumatara", "macan", "harimau sumatra"],
+  verification: {
+    google: "zjK6Hxhrx6PtXe4xZsokA0VHOV6zsNiBnQ45jAKwot8"
+  }
 };
 
 export default function RootLayout({
@@ -25,6 +28,7 @@ export default function RootLayout({
   return (
     // <StoreProvider>
     <html lang="en">
+      <meta name="google-site-verification" content="zjK6Hxhrx6PtXe4xZsokA0VHOV6zsNiBnQ45jAKwot8" />
       <body >
         <Header />
         {children}</body>
