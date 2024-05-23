@@ -1,0 +1,34 @@
+{
+  "header": [
+    {
+      "label": "home",
+      "href": "/"
+    },
+    {
+      "label": "blog",
+      "href": "/blog"
+    },
+    {
+      "label": "about",
+      "href": "/about"
+    }
+  ],
+  "dataSlider": [
+    {
+      "nama": "Harimau Jawa",
+      "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "nama": "Harimau Sumatra",
+      "image": "https://images.unsplash.com/photo-1602491453631-e2a5ad90a131?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "nama": "Harimau Kalimantan",
+      "image": "https://images.unsplash.com/photo-1590767187868-b8e9ece0974b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "nama": "Harimau Madura",
+      "image": "https://images.unsplash.com/photo-1537616930345-1d330ad3e0a9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fHw%3D"
+    }
+  ]
+}
